@@ -39,3 +39,6 @@ You are obviously free to add any other procedures / details to its simulation e
 </br>
 Προφανώς είστε ελεύθεροι να προσθέσετε οποιαδήποτε άλλη διαδικασία / λεπτομέρεια στην προσομοίωση της
 άσκησης αυτής.
+</br>
+</br>
+Replit link: https://replit.com/@redbillis/Hospital-Reception#main.py
