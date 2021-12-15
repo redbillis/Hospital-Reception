@@ -1,7 +1,7 @@
 <h1>An old python excercise.</h1>
 
 <h2>English Format</h2>
-Excercise
+Excercise</br>
 This exercise is an exercise in the concept of correlations between the objects of a system.
 Build a Python program that simulates a patient admission system to various
 clinics of a hospital. This system should:
@@ -17,7 +17,7 @@ c) Simulate the process of admitting a patient to one of the hospital clinics, t
 You are obviously free to add any other procedures / details to its simulation exercise. 
 
 <h2>Greek Format:</h2>
-Άσκηση
+Άσκηση</br>
 Η άσκηση αυτή αποτελεί εξάσκηση στην έννοια των συσχετίσεων μεταξύ των αντικειμένων ενός συστήματος.
 Κατασκευάστε ένα πρόγραμμα Python το οποίο θα προσομοιώνει ένα σύστημα εισαγωγής ασθενών σε διάφορες
 κλινικές ενός νοσοκομείου. Το σύστημα αυτό θα πρέπει:
